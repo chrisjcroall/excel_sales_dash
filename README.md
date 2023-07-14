@@ -1,4 +1,4 @@
-# excel_sales_dash
+# excel_tab_sales_dashboard
 An interactive dashboard to have an overview of sales &amp; profits in an html format
 
 ![ezgif com-video-to-gif](https://github.com/chrisjcroall/excel_sales_dash/assets/126267745/b285a2e6-4143-4127-b6c9-7998de6ebddf)
